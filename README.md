@@ -1,1 +1,1 @@
-# MyProject
+# MyProject/JavaScript/Canvas-resize
